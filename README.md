@@ -13,3 +13,6 @@ Analogous to javadocs, doxygen, etc.
 ##### send results to .pdf or .doc or .txt
 
 ##### Currently, the program works from the command line and picks out a single type of comment (containing 'TODO:')
+
+NOTES:
+    1. Build with JDK 21 or later.
